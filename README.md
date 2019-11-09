@@ -18,7 +18,7 @@
 
 _Ps_: For windows platform, directory "source/dependency" includes all required packages, you don not need to install them and follow the below steps to finsh testing. But for Linux platform, PyQt5 installation is needed.
 
-##Getting started
+## Getting started
 
 ### Brief Introduction
 It is a course design about web packet sniffer. PyQt5 is used to design GUI.

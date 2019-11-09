@@ -24,7 +24,7 @@ _Ps_: For windows platform, directory "source/dependency" includes all required 
 It is a course design about web packet sniffer. PyQt5 is used to design GUI.
 scapy is used to sniffe and analyze packets.
 
-###Run Code Directly
+### Run Code Directly
 For windows paltform, you can run `main.py` without installation.
 In the ``.\source\`` directory, run command:
 ```
@@ -38,11 +38,11 @@ For Linux paltform, PyQt5 installation is needed. And then, run:
 ```
 
 
-###Some Points
+### Some Points
 For Linux platform, detail information tab is unabled.
 
 
-###About File
+### About File
 
 | Dir   |      Comment      |
 |----------|:-------------:|

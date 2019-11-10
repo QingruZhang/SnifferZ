@@ -1,4 +1,4 @@
-# SnifferZ ![logo](source/img/SnifferLogo.png =100x100)
+# SnifferZ ![logo](source/img/SnifferLogo.png | width=50)
 
 ## Author
 + Qingru Zhang

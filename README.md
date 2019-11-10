@@ -1,4 +1,4 @@
-# SnifferZ  <img src="source/img/SnifferLogo.png" width="35" height="35">
+# <img src="source/img/SnifferLogo.png" width="35" height="35"> SnifferZ 
 
 ## Author
 + Qingru Zhang
